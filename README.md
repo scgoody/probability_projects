@@ -2,6 +2,7 @@
 This repo contains applied R scripts and a supplemental concept summary developed as part of an independent study focused on statistical modeling, probability theory, and data driven inference. The projects explore theoretical and practical applications of probabilistic methods, using real and synthetic datasets.  
 
 # Repo Structure
+probability_projects/
 ├── linear_regression_practice.R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# simple & multiple linear regression modeling  
 ├── logistic_regression_practice.R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# binary classification using logistic regression  
 ├── meta_stock_practice.R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# regression modeling applied to META stock data  
@@ -50,8 +51,8 @@ This repo contains applied R scripts and a supplemental concept summary develope
 
 ## How to Use
 1. ```bash
-   git clone https://github.com/scgoody/probability_course.git
-   cd probability_course
+   git clone https://github.com/scgoody/probability_projects.git
+   cd probability_projects
 2. Open in R Studio and run code
 
 ## Author
